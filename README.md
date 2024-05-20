@@ -1,4 +1,4 @@
-## ANÁLISE DE VENDAS DA LOJA 'ICE STORE' DA INDÚSTRIA DE GAMES
+## ANÁLISE HISTÓRICA DE VENDAS DA INDÚSTRIA DE GAMES
 
 #### Este projeto visa analisar os dados da venda de jogos da loja on line "Ice" no período de 1980 a 2016 procurando identificar padrões que levam um jogo ao sucesso ou não a fim de colaborar nas projeções para campanhas publicitárias para o ano subsequente.
 
